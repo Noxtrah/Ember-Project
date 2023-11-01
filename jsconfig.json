@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "ES2023",
+        "experimentalDecorators": true
+    },
+    
+    "exclude": [
+        "node-modules",
+        "dist"
+    ]
+    
+}
